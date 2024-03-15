@@ -27,4 +27,4 @@ void applyPriceDiscount(List<Map<String, dynamic>> fruits, double discountPercen
     double discountAmount = originalPrice * discountPercentage / 100;
     fruit['price'] = originalPrice - discountAmount;
   }
-}
+}ishiufjhfhjishfihj
